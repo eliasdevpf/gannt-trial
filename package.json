@@ -9,7 +9,18 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.0.1"
+    "web-vitals": "^1.0.1",
+    "rrule": "2.6.6",
+    "prop-types": "15.7.2",
+    "preact": "10.5.13",
+    "luxon": "1.26.0",
+    "jszip": "3.6.0",
+    "es6-object-assign": "1.1.0",
+    "devextreme-react": "20.2.6",
+    "devextreme-quill": "0.10.3",
+    "devextreme": "20.2.6",
+    "devexpress-gantt": "2.0.24",
+    "devexpress-diagram": "2.0.18"
   },
   "scripts": {
     "start": "react-scripts start",
